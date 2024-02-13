@@ -55,6 +55,21 @@
                   "layoutId": "winxwgye96",
                   "layoutType": "WIDGET_ROW",
                   "maxChildLimit": 1
+                },
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "l2xfhy6ksr",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "634azsavw5",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
                 }
               ],
               "layoutStyle": {
